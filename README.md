@@ -1,6 +1,7 @@
 # 💫 HI, I’m Dhana !
 
-I am simple person who loves coding, learning, sharing knowledge I have good experience working in data engineering as Senior Data Engineer, Data Engineering Manager. Excited about learning and exploring anything on data especially spark, python, Machine learning.
+I am simple person who loves coding, learning, sharing knowledge I have good experience working in data engineering as Senior Data Engineer, Data Engineering Manager, Senior Tech lead roles.
+Excited about learning and exploring anything on data especially spark, python, Machine learning.
 I am currently interested in learning & building AI topics.
 
 I am AWS ceertified Data Engineer, AWS Certified in Data Analytics speciality & Certified in Data Management. I like to learn and grow in data & ML field.
