@@ -1,6 +1,9 @@
 # 💫 HI, I’m Dhana !
 
-I have extensive experience working in data engineering as Senior Data Engineer, Data Engineering Manager. Excited about learning and exploring anything on data especially spark, python, Machine learning.<br>I am currently interested in learning & building AI topics.<br>I am looking to collaborate on YouTube! Send your ideas to dhana.ai.explore@gmail.com.
+I have extensive experience working in data engineering as Senior Data Engineer, Data Engineering Manager. Excited about learning and exploring anything on data especially spark, python, Machine learning.
+I am AWS ceertified Data Engineer, AWS Certified in Data Analytics speciality & Certified in Data Management. I like to learn and grow in data & ML field.
+
+<br>I am currently interested in learning & building AI topics.<br>I am looking to collaborate on YouTube! Send your ideas to dhana.ai.explore@gmail.com.
 
 
 ## 🌐 Socials:
