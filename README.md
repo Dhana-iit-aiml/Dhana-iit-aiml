@@ -1,7 +1,7 @@
 # 💫 HI, I’m Dhana !
 
 I am simple person who loves coding, learning, sharing knowledge. I am passionate about leading, mentoring people and Customer obsessed. 
-I have good experience working in data engineering as Senior Data Engineer, Data Engineering Manager, Senior Tech lead roles in some of the world's leading investment banks & Product Companies.
+I have good experience working in data engineering as Senior Data Engineer, Data Engineering Manager, Senior Tech lead roles & Architect role in some of the world's leading investment banks & Product Companies.
 Excited about learning and exploring anything on data especially spark, python, Machine learning.
 I am currently interested in learning & building AI topics.
 
